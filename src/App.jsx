@@ -10,7 +10,7 @@ function App() {
 
       <main>
         <section className="hero" id="home">
-          <p className="subtitle">WELCOME TO WINE HOUSE</p>
+          <p className="subtitle">KOSHAL WIN SHOP</p>
 
           <h1>Discover Your Perfect Pour</h1>
 
